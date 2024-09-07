@@ -1,4 +1,4 @@
-##PONG OPENGL
+#PONG OPENGL
 
 Jogo Pong, criado usando c++ e OpenGL e GLUT.
 
