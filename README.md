@@ -9,29 +9,29 @@ gcc -o pong main.cpp -lopengl32 -lglu32 -lfreeglut
 
 Player 1:
 
-a - move para cima 
+  a - move para cima 
 
-s - move para baixo
+  s - move para baixo
 
 
 Player 2:
 
-k - move para cima
+  k - move para cima
 
-l - move para baixo
+  l - move para baixo
 
 
 Escolher dificuldade:
 
-1- Easy
+  1- Easy
+  
+  2- Normal
 
-2- Normal
+  3- Hard
 
-3- Hard
+  4- Very hard
 
-4- Very hard
-
-5- Hyper hard
+  5- Hyper hard
 
 
 
