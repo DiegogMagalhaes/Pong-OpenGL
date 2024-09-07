@@ -13,11 +13,13 @@ a - move para cima
 
 s - move para baixo
 
+
 Player 2:
 
 k - move para cima
 
 l - move para baixo
+
 
 Escolher dificuldade:
 
