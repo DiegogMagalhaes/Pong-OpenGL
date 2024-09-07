@@ -228,10 +228,10 @@ void update(int value) {
 
 void handleKeysDown(unsigned char key, int x, int y) {
     switch(key){
-        case 's':
+        case 'a':
             bar1State = BAR_MOVIMENT_UP;
             break;
-        case 'd':
+        case 's':
             bar1State = BAR_MOVIMENT_DOWN;
             break;
         case 'k':
